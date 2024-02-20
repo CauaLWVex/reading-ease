@@ -2,6 +2,7 @@
   "name": "teste_de_facilidade_de_leitura",
   "author": "jnaraujo",
   "private": false,
+  "version": "1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
